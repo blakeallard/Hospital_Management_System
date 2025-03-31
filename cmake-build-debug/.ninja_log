@@ -1,0 +1,22 @@
+# ninja log v6
+3	363	7638629207145897	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+11	313	7638629313238511	CMakeFiles/Hospital_Management_System.dir/main.cpp.obj	34900fb9d0620a64
+313	463	7638629316261050	Hospital_Management_System.exe	3b39a3a573bd860a
+4	286	7638629526920455	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+286	358	7638629529745303	Hospital_Management_System.exe	3b39a3a573bd860a
+12	294	7638629639430946	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+294	367	7638629642247134	Hospital_Management_System.exe	3b39a3a573bd860a
+12	294	7638630299239588	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+294	369	7638630302056462	Hospital_Management_System.exe	3b39a3a573bd860a
+12	294	7638630512034638	CMakeFiles/Hospital_Management_System.dir/main.cpp.obj	34900fb9d0620a64
+294	367	7638630514859541	Hospital_Management_System.exe	3b39a3a573bd860a
+3	285	7638631572286977	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+286	360	7638631575128210	Hospital_Management_System.exe	3b39a3a573bd860a
+11	296	7638632683052183	CMakeFiles/Hospital_Management_System.dir/main.cpp.obj	34900fb9d0620a64
+4	285	7638633306750543	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+285	356	7638633309558943	Hospital_Management_System.exe	3b39a3a573bd860a
+3	290	7638636355401148	CMakeFiles/Hospital_Management_System.dir/main.cpp.obj	34900fb9d0620a64
+11	306	7638636532717272	CMakeFiles/Hospital_Management_System.dir/Patient.cpp.obj	32e779e4556b02df
+306	380	7638636535674514	Hospital_Management_System.exe	3b39a3a573bd860a
+24	616	7638819124786308	CMakeFiles/Hospital_Management_System.dir/main.cpp.obj	34900fb9d0620a64
+616	794	7638819130703783	Hospital_Management_System.exe	3b39a3a573bd860a
